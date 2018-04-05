@@ -3,11 +3,11 @@
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: 30 Day Fitness Challenge Customizer
-author: Stepping Stone Nutrition, LLC
+title: TrentaFit - 30 Day at Home Fitness Challenge
+author: TrentaFit
 email: your-email@domain.com
 description: Stepping Stone Nutrition offers Nutrition, Wellness, and Lactation Counseling and Services in Southeast Wisconsin.
-url: www.steppingstonenutritionwi.com
+url: www.TrentaFit.com
 logo: /images/app-icon.png
 
 #
@@ -22,9 +22,6 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
-
-# The release of Awesome App Landing Page that you're using
-version: v1.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
