@@ -127,11 +127,17 @@ body {
       .title-wrapper {
         margin: 15px 0;
         .title {
+          margin: 0;
           display: block;
           font-weight: bold;
           font-size: 28px;
           line-height: 28px;
           margin-bottom: 3px;
+        }
+        h2 {
+          font-size: 14px;
+          font-weight: normal;
+          margin: 0;
         }
       }
     }
